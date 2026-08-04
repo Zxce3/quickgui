@@ -1,0 +1,245 @@
+repo_name: Zxce3/quickgui
+report_id: e7febe5e2a3f653ccc2351ca6f6f0971
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:07:33+00:00'
+requested_by: ymauray
+provider: github
+branch: main
+detected_tools_count: 19
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/quickgui
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/Zxce3/quickgui
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/Zxce3/quickgui
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-09 07:20:17.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-09 07:20:17.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Mark Johnson
+  last_updated_on: 2021-11-13 22:59:27.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/Zxce3/quickgui
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/quickgui
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-09 07:20:17.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-09 07:20:17.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-12-18 22:58:51.000000000 Z
+- name: file_picker
+  description: A package that allows you to use a native file explorer to pick single
+    or multiple absolute file paths
+  package_url: https://pub.dartlang.org/file_picker
+  version: 4.1.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-12-18 22:58:51.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Mark Johnson
+  last_updated_on: 2021-11-13 22:59:27.000000000 Z
+- name: flutter_svg
+  description: An SVG rendering and widget library for Flutter
+  package_url: https://pub.dartlang.org/flutter_svg
+  version: 0.23.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Mark Johnson
+  last_updated_on: 2021-11-13 22:59:27.000000000 Z
+- name: intl
+  description: Contains code to deal with internationalized/localized messages
+  package_url: https://pub.dartlang.org/intl
+  version: 0.17.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-11-11 01:03:56.000000000 Z
+- name: provider
+  description: A wrapper around InheritedWidget to make them easier to use and more
+    reusable
+  package_url: https://pub.dartlang.org/provider
+  version: 6.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-11-09 21:32:08.000000000 Z
+- name: quiver
+  description: Quiver is a set of utility libraries for Dart that makes using many
+    Dart libraries easier and more convenient
+  package_url: https://pub.dartlang.org/quiver
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-16 12:58:06.000000000 Z
+- name: shared_preferences
+  description: Flutter plugin for reading and writing simple key-value pairs
+  package_url: https://pub.dartlang.org/shared_preferences
+  version: 2.0.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-27 23:52:14.000000000 Z
+- name: tuple
+  description: A library providing a tuple data structure
+  package_url: https://pub.dartlang.org/tuple
+  version: 2.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/Zxce3/quickgui/blob/main/pubspec.yaml
+  detection_source: pubspec.yaml
+  last_updated_by: Yannick Mauray
+  last_updated_on: 2021-10-19 23:30:11.000000000 Z
